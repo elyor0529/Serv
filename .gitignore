@@ -1,0 +1,8 @@
+/packages
+/Build
+/Demo.Cmd/obj
+/Demo.Cmd/bin
+/Demo.GUI/bin
+/Demo.GUI/obj
+/Demo.Serv/obj
+/Demo.Serv/bin
